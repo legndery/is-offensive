@@ -1,0 +1,19 @@
+{
+  "name": "is-offensive",
+  "version": "1.0.0",
+  "description": "A package to check if a word is offensive or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legndery/is-offensive.git"
+  },
+  "author": "legndery <ar_itra@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legndery/is-offensive/issues"
+  },
+  "homepage": "https://github.com/legndery/is-offensive#readme"
+}
